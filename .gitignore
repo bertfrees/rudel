@@ -3,3 +3,5 @@ Makefile
 rudel-loaddefs.el
 *.log
 doc/auto
+/rudel-*.tar
+*~
